@@ -8,12 +8,14 @@ Installation:
           
   step 2: Create a virtualenv
   
-          For windows:
+  For windows:
+          
             pip install virtualenv
             python -m virtualenv venv
             .\venv\Script\activate
           
-          For Linux:
+  For Linux:
+  
             pip install virtualenv
             virtualenv venv
             source venv/bin/activate
